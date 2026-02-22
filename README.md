@@ -35,3 +35,11 @@ To understand and implement various data visualization techniques for effective 
 # 🚀 Conclusion
 
 This practical enhances the ability to convert raw data into meaningful visual insights, improving analytical and interpretation skills.
+***
+# Done by 
+
+Name: Rajdeep Choudhury<br>
+Enrollment number: A91005223004<br>
+Section: B<br>
+Batch: 2023-2027<br>
+Department: B.Tech in Computer Science and Engineering (CSE)<br>
