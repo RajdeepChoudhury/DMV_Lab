@@ -22,8 +22,6 @@ To understand and implement various data visualization techniques for effective 
 3. 🥧 Pie Chart
 4. 📉 Histogram
 5. 🔵 Scatter Plot
-6. 📦 Box Plot
-7. 🔥 Heatmap
 ***
 # 📖 Learning Outcomes
 
