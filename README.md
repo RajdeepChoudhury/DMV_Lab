@@ -13,15 +13,6 @@ To understand and implement various data visualization techniques for effective 
 3. NumPy
 4. Pandas
 5. Matplotlib
-6. Seaborn
-***
-# 📌 Visualizations Implemented
-
-1. 📈 Line Plot
-2. 📊 Bar Chart
-3. 🥧 Pie Chart
-4. 📉 Histogram
-5. 🔵 Scatter Plot
 ***
 # 📖 Learning Outcomes
 
