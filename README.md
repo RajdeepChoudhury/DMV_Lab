@@ -19,7 +19,7 @@ To understand and implement various data visualization techniques for effective 
 1. Understanding data cleaning and preprocessing
 2. Applying different visualization techniques
 3. Interpreting graphical data effectively
-4. Gaining hands-on experience with Python libraries
+4. Gaining hands on experience with Python libraries
 ***
 # 🚀 Conclusion
 
